@@ -1,4 +1,4 @@
-1.28 DayZ Chernarus Slightly Boosted Loot PvE xml Mod Changelog & Terms Of Use
+1.28 DayZ Chernarus Slightly Boosted Loot PvP xml Mod Changelog & Terms Of Use
 
 Limited Testing on PC Chernarus Local Server DAYZ EXPERIMENTAL Version 1.28 MAY 2025.
 
@@ -134,5 +134,6 @@ vehicles spawn complete, with fuel-can in cargo. players will need to add water 
 messages.xml edits
 
 server restart every 12 hours with countdown message.
+
 
 GOOD LUCK!
